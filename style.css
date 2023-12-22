@@ -42,3 +42,15 @@ h1{
 body{
     background-color: #0d0304;
 }
+
+.botaosubmit{
+    background-color: #0d0304;
+    color: white;
+    border-radius: 10px;
+}
+
+#inNome{
+    background-color: #0d0304;
+    color: white;
+    border-radius: 10px;
+}
